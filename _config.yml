@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "안우진"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "서울대/컴퓨터공학부 24학번"
+  bio              : "서울대학교/컴퓨터공학부 24학번"
   location         : "Somewhere"
   email            : "awj1204@snu.ac.kr"
   links:
